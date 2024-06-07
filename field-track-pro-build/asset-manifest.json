@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.192a2067.css",
+    "main.js": "/static/js/main.f078a869.js",
+    "static/js/453.508e9eb1.chunk.js": "/static/js/453.508e9eb1.chunk.js",
+    "static/media/task-management.svg": "/static/media/task-management.5045fa354eeabf8521e6e94e022e96ce.svg",
+    "static/media/route-planning.jpg": "/static/media/route-planning.0fddb6a4e932cdcd2ee4.jpg",
+    "static/media/people-tracking.svg": "/static/media/people-tracking.a0b888501bb4235c838fad56d93c4a74.svg",
+    "static/media/gps-tracking.svg": "/static/media/gps-tracking.53f717343cdee13ff2a909a94f08d94b.svg",
+    "static/media/about-us.svg": "/static/media/about-us.0b9de7fae586fa0908b9bb9f75beffa1.svg",
+    "index.html": "/index.html",
+    "main.192a2067.css.map": "/static/css/main.192a2067.css.map",
+    "main.f078a869.js.map": "/static/js/main.f078a869.js.map",
+    "453.508e9eb1.chunk.js.map": "/static/js/453.508e9eb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.192a2067.css",
+    "static/js/main.f078a869.js"
+  ]
+}
