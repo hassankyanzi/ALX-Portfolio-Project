@@ -38,8 +38,16 @@ button {
   cursor: pointer;
 }
 
-a {
+button.link-button {
   margin-top: 10px;
+  background: none;
   color: #007bff;
-  text-decoration: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+button.link-button:hover {
+  color: #0056b3;
 }

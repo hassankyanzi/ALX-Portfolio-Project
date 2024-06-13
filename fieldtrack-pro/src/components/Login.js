@@ -1,4 +1,3 @@
-// src/components/Login.js
 import React from 'react';
 import './Login.css';
 
@@ -13,7 +12,9 @@ const Login = () => {
         <input type="password" placeholder="Password" />
         <button type="submit">Login</button>
       </form>
-      <a href="#">Forgot Password?</a>
+      <button className="link-button" onClick={() => alert('Forgot Password Clicked!')}>
+        Forgot Password?
+      </button>
     </div>
   );
 };
