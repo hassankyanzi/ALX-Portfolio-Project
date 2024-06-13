@@ -1,4 +1,3 @@
-// src/AuthContext.js
 import React, { createContext, useState, useContext } from 'react';
 import { useNavigate } from 'react-router-dom';
 
@@ -9,7 +8,6 @@ export const AuthProvider = ({ children }) => {
   const navigate = useNavigate();
 
   const login = (email, password) => {
-    // Mock authentication logic
     if (email === 'user@example.com' && password === 'password') {
       setIsAuthenticated(true);
       navigate('/dashboard');

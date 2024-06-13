@@ -38,11 +38,8 @@ button {
   cursor: pointer;
 }
 
-button[type="button"] {
+a {
   margin-top: 10px;
-  background-color: transparent;
   color: #007bff;
-  border: none;
-  cursor: pointer;
-  text-decoration: underline;
+  text-decoration: none;
 }
